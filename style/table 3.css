@@ -1,0 +1,30 @@
+.tabletxt {
+    font-size: 33px;
+    color: rgb(70,70,70);
+    text-align: center;
+}
+
+table  {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+thead tr #headingtxt {
+    color: #fff;
+    font-size: 30px;
+    padding: 15px;
+    border: 0;
+    background-color: rgb(38,196,137);
+}
+
+th, td {
+    font-size: 18px;
+    text-align: center;
+    padding: 18px 50px;
+    border: 1px solid  #fff;
+    background-color: rgb(219,246,237);
+}
+
+footer div {
+    padding: 20px 0 4   0px 0;
+}

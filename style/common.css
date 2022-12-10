@@ -1,0 +1,29 @@
+.nav a {
+    text-decoration: none;
+}
+
+.nav {
+    text-align: center;
+    font-size: 25px;
+}
+
+.nav-menu {
+    color: rgb(255,168,6);
+}
+
+.table1 {
+    color: #74308f;
+}
+
+.table2 {
+    color: rgb(21,141,104);
+}
+
+.table3 {
+    color: rgb(255,2,12);
+}
+
+footer div {
+    text-align: center;
+}
+
